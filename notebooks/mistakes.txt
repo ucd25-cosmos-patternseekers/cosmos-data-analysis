@@ -1,0 +1,658 @@
+INPUT: google | <OOV> | google | <OOV> | google | <OOV> | google | <OOV> | google | <OOV> | youtube | youtube | <OOV> | youtube | youtube
+TRUE NEXT APP: calculator
+PREDICTIONS:
+   - google                    (Confidence: 80.08%)
+   - facebook                  (Confidence: 5.24%)
+   - youtube                   (Confidence: 3.07%)
+============================================================
+INPUT: <OOV> | facebook | <OOV> | <OOV> | <OOV> | facebook | <OOV> | facebook | aol | facebook | <OOV> | facebook | <OOV> | <OOV> | <OOV>
+TRUE NEXT APP: contacts
+PREDICTIONS:
+   - facebook                  (Confidence: 72.79%)
+   - aol                       (Confidence: 17.41%)
+   - gmail                     (Confidence: 6.69%)
+============================================================
+INPUT: <OOV> | google | <OOV> | google | <OOV> | google | <OOV> | google | <OOV> | google | <OOV> | google | <OOV> | google | <OOV>
+TRUE NEXT APP: messages
+PREDICTIONS:
+   - google                    (Confidence: 90.33%)
+   - facebook                  (Confidence: 1.68%)
+   - settings                  (Confidence: 1.65%)
+============================================================
+INPUT: facebook | calendar | twitter | google | twitter | google | twitter | telegram | twitter | telegram | twitter | twitter | twitter | google | twitter
+TRUE NEXT APP: settings
+PREDICTIONS:
+   - twitter                   (Confidence: 28.44%)
+   - telegram                  (Confidence: 22.04%)
+   - google                    (Confidence: 20.54%)
+============================================================
+INPUT: <OOV> | messages | <OOV> | messages | <OOV> | facebook | <OOV> | facebook | <OOV> | facebook | <OOV> | facebook | <OOV> | <OOV> | maps
+TRUE NEXT APP: lucktastic
+PREDICTIONS:
+   - messages                  (Confidence: 29.69%)
+   - facebook                  (Confidence: 23.14%)
+   - google                    (Confidence: 9.04%)
+============================================================
+INPUT: <OOV> | contacts | <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | contacts | <OOV> | contacts | <OOV> | <OOV> | <OOV> | <OOV> | contacts
+TRUE NEXT APP: settings
+PREDICTIONS:
+   - google                    (Confidence: 33.46%)
+   - slidejoy                  (Confidence: 17.10%)
+   - gmail                     (Confidence: 15.51%)
+============================================================
+INPUT: gmail | facebook | gmail | facebook | gmail | facebook | gmail | facebook | gmail | facebook | gmail | facebook | gmail | facebook | gmail
+TRUE NEXT APP: instagram
+PREDICTIONS:
+   - facebook                  (Confidence: 52.53%)
+   - gmail                     (Confidence: 18.85%)
+   - google                    (Confidence: 8.88%)
+============================================================
+INPUT: <OOV> | settings | settings | <OOV> | settings | <OOV> | <OOV> | facebook | <OOV> | facebook | <OOV> | <OOV> | settings | <OOV> | facebook
+TRUE NEXT APP: gmail
+PREDICTIONS:
+   - facebook                  (Confidence: 46.03%)
+   - settings                  (Confidence: 21.63%)
+   - google                    (Confidence: 8.46%)
+============================================================
+INPUT: camera | <OOV> | camera | <OOV> | camera | <OOV> | camera | <OOV> | camera | <OOV> | camera | <OOV> | camera | instagram | google
+TRUE NEXT APP: gmail
+PREDICTIONS:
+   - instagram                 (Confidence: 67.39%)
+   - camera                    (Confidence: 8.24%)
+   - maps                      (Confidence: 4.21%)
+============================================================
+INPUT: twitter | gmail | <OOV> | gmail | twitter | <OOV> | twitter | <OOV> | <OOV> | twitter | gmail | <OOV> | gmail | messaging | gmail
+TRUE NEXT APP: youtube
+PREDICTIONS:
+   - messaging                 (Confidence: 62.96%)
+   - twitter                   (Confidence: 25.89%)
+   - google                    (Confidence: 3.86%)
+============================================================
+INPUT: google | <OOV> | google | facebook | <OOV> | facebook | <OOV> | facebook | <OOV> | facebook | <OOV> | facebook | google | messages | google
+TRUE NEXT APP: instagram
+PREDICTIONS:
+   - messages                  (Confidence: 51.10%)
+   - facebook                  (Confidence: 28.13%)
+   - youtube                   (Confidence: 6.98%)
+============================================================
+INPUT: messaging | facebook | messaging | facebook | messaging | facebook | messaging | facebook | messaging | facebook | messaging | facebook | messaging | facebook | gmail
+TRUE NEXT APP: youtube
+PREDICTIONS:
+   - facebook                  (Confidence: 70.97%)
+   - messaging                 (Confidence: 16.66%)
+   - google                    (Confidence: 6.70%)
+============================================================
+INPUT: <OOV> | <OOV> | <OOV> | <OOV> | gmail | <OOV> | gmail | <OOV> | <OOV> | youtube | <OOV> | gmail | gmail | hulu | netflix
+TRUE NEXT APP: settings
+PREDICTIONS:
+   - gmail                     (Confidence: 36.07%)
+   - youtube                   (Confidence: 14.57%)
+   - google                    (Confidence: 13.87%)
+============================================================
+INPUT: <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | instagram | maps | maps | youtube | maps | <OOV> | ibotta
+TRUE NEXT APP: settings
+PREDICTIONS:
+   - maps                      (Confidence: 22.26%)
+   - youtube                   (Confidence: 12.70%)
+   - gmail                     (Confidence: 10.52%)
+============================================================
+INPUT: instagram | facebook | google | google | google | contacts | google | messages | facebook | messages | google | messages | <OOV> | contacts | <OOV>
+TRUE NEXT APP: messages
+PREDICTIONS:
+   - contacts                  (Confidence: 62.00%)
+   - google                    (Confidence: 16.06%)
+   - facebook                  (Confidence: 9.06%)
+============================================================
+INPUT: youtube | <OOV> | <OOV> | <OOV> | <OOV> | facebook | <OOV> | facebook | <OOV> | facebook | ibotta | <OOV> | facebook | instagram | <OOV>
+TRUE NEXT APP: youtube
+PREDICTIONS:
+   - instagram                 (Confidence: 72.41%)
+   - facebook                  (Confidence: 15.76%)
+   - google                    (Confidence: 1.80%)
+============================================================
+INPUT: <OOV> | phone | <OOV> | <OOV> | phone | phone | <OOV> | phone | <OOV> | phone | phone | phone | facebook | <OOV> | lucktastic
+TRUE NEXT APP: settings
+PREDICTIONS:
+   - phone                     (Confidence: 35.32%)
+   - facebook                  (Confidence: 26.09%)
+   - google                    (Confidence: 8.41%)
+============================================================
+INPUT: google | netflix | <OOV> | netflix | gmail | <OOV> | google | maps | calendar | gmail | youtube | netflix | <OOV> | netflix | <OOV>
+TRUE NEXT APP: maps
+PREDICTIONS:
+   - netflix                   (Confidence: 45.63%)
+   - gmail                     (Confidence: 15.28%)
+   - google                    (Confidence: 12.80%)
+============================================================
+INPUT: settings | <OOV> | settings | <OOV> | settings | <OOV> | settings | <OOV> | settings | <OOV> | settings | <OOV> | settings | <OOV> | maps
+TRUE NEXT APP: gmail
+PREDICTIONS:
+   - settings                  (Confidence: 57.76%)
+   - google                    (Confidence: 13.31%)
+   - maps                      (Confidence: 8.21%)
+============================================================
+INPUT: messages | messages | <OOV> | messages | <OOV> | messages | messages | <OOV> | <OOV> | <OOV> | <OOV> | messages | contacts | messages | contacts
+TRUE NEXT APP: gmail
+PREDICTIONS:
+   - messages                  (Confidence: 81.40%)
+   - contacts                  (Confidence: 3.93%)
+   - facebook                  (Confidence: 3.05%)
+============================================================
+INPUT: <OOV> | <OOV> | google | <OOV> | facebook | aol | twitter | aol | <OOV> | facebook | <OOV> | aol | <OOV> | messaging | <OOV>
+TRUE NEXT APP: maps
+PREDICTIONS:
+   - facebook                  (Confidence: 37.84%)
+   - messaging                 (Confidence: 33.80%)
+   - aol                       (Confidence: 16.29%)
+============================================================
+INPUT: <OOV> | instagram | <OOV> | instagram | <OOV> | instagram | <OOV> | instagram | <OOV> | instagram | <OOV> | instagram | <OOV> | instagram | <OOV>
+TRUE NEXT APP: messages
+PREDICTIONS:
+   - instagram                 (Confidence: 95.77%)
+   - google                    (Confidence: 2.48%)
+   - facebook                  (Confidence: 0.43%)
+============================================================
+INPUT: slidejoy | messages | slidejoy | <OOV> | slidejoy | slidejoy | <OOV> | slidejoy | slidejoy | slidejoy | <OOV> | messages | <OOV> | <OOV> | messages
+TRUE NEXT APP: contacts
+PREDICTIONS:
+   - slidejoy                  (Confidence: 49.08%)
+   - facebook                  (Confidence: 29.67%)
+   - google                    (Confidence: 5.04%)
+============================================================
+INPUT: <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | <OOV>
+TRUE NEXT APP: telegram
+PREDICTIONS:
+   - facebook                  (Confidence: 18.39%)
+   - google                    (Confidence: 14.52%)
+   - settings                  (Confidence: 10.17%)
+============================================================
+INPUT: <OOV> | contacts | messaging | <OOV> | <OOV> | phone | contacts | messaging | google | phone | messaging | phone | <OOV> | phone | messaging
+TRUE NEXT APP: maps
+PREDICTIONS:
+   - phone                     (Confidence: 55.69%)
+   - messaging                 (Confidence: 16.29%)
+   - metrozone                 (Confidence: 9.74%)
+============================================================
+INPUT: messages | <OOV> | messages | <OOV> | messages | <OOV> | messages | <OOV> | messages | slidejoy | slidejoy | <OOV> | <OOV> | slidejoy | <OOV>
+TRUE NEXT APP: maps
+PREDICTIONS:
+   - slidejoy                  (Confidence: 91.51%)
+   - messages                  (Confidence: 5.01%)
+   - facebook                  (Confidence: 1.01%)
+============================================================
+INPUT: facebook | gmail | <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | gmail | camera | <OOV> | <OOV> | <OOV> | <OOV> | maps | settings
+TRUE NEXT APP: google
+PREDICTIONS:
+   - maps                      (Confidence: 57.16%)
+   - facebook                  (Confidence: 9.81%)
+   - settings                  (Confidence: 9.29%)
+============================================================
+INPUT: hangouts | contacts | <OOV> | hangouts | <OOV> | <OOV> | hangouts | <OOV> | contacts | <OOV> | <OOV> | google | facebook | <OOV> | <OOV>
+TRUE NEXT APP: settings
+PREDICTIONS:
+   - contacts                  (Confidence: 37.47%)
+   - facebook                  (Confidence: 17.62%)
+   - hangouts                  (Confidence: 12.35%)
+============================================================
+INPUT: messaging | <OOV> | messaging | <OOV> | messaging | <OOV> | messaging | <OOV> | messaging | <OOV> | gmail | <OOV> | gmail | instagram | messaging
+TRUE NEXT APP: google
+PREDICTIONS:
+   - gmail                     (Confidence: 46.79%)
+   - instagram                 (Confidence: 39.29%)
+   - phone                     (Confidence: 3.59%)
+============================================================
+INPUT: instagram | <OOV> | instagram | <OOV> | instagram | <OOV> | instagram | <OOV> | instagram | <OOV> | instagram | <OOV> | instagram | <OOV> | facebook
+TRUE NEXT APP: lucktastic
+PREDICTIONS:
+   - instagram                 (Confidence: 63.62%)
+   - google                    (Confidence: 16.09%)
+   - gmail                     (Confidence: 5.79%)
+============================================================
+INPUT: gmail | metrozone | metrozone | gmail | metrozone | gmail | metrozone | gmail | messaging | google | youtube | google | youtube | google | youtube
+TRUE NEXT APP: youtube
+PREDICTIONS:
+   - metrozone                 (Confidence: 31.25%)
+   - gmail                     (Confidence: 17.86%)
+   - phone                     (Confidence: 13.10%)
+============================================================
+INPUT: <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | settings | <OOV> | gmail
+TRUE NEXT APP: instagram
+PREDICTIONS:
+   - settings                  (Confidence: 38.41%)
+   - google                    (Confidence: 31.36%)
+   - maps                      (Confidence: 7.77%)
+============================================================
+INPUT: twitter | twitter | twitter | twitter | maps | twitter | twitter | <OOV> | twitter | instagram | twitter | twitter | lucktastic | twitter | settings
+TRUE NEXT APP: twitter
+PREDICTIONS:
+   - settings                  (Confidence: 21.52%)
+   - youtube                   (Confidence: 12.84%)
+   - instagram                 (Confidence: 9.21%)
+============================================================
+INPUT: <OOV> | <OOV> | <OOV> | gmail | <OOV> | gmail | <OOV> | <OOV> | gmail | <OOV> | gmail | <OOV> | gmail | <OOV> | gmail
+TRUE NEXT APP: settings
+PREDICTIONS:
+   - gmail                     (Confidence: 37.74%)
+   - facebook                  (Confidence: 10.45%)
+   - google                    (Confidence: 7.90%)
+============================================================
+INPUT: gmail | google | gmail | reddit | reddit | <OOV> | reddit | reddit | reddit | <OOV> | gmail | reddit | gmail | reddit | gmail
+TRUE NEXT APP: snapchat
+PREDICTIONS:
+   - reddit                    (Confidence: 31.92%)
+   - gmail                     (Confidence: 23.74%)
+   - google                    (Confidence: 11.01%)
+============================================================
+INPUT: facebook | hangouts | facebook | hangouts | facebook | hangouts | facebook | gmail | facebook | hangouts | calendar | <OOV> | calendar | <OOV> | <OOV>
+TRUE NEXT APP: calendar
+PREDICTIONS:
+   - facebook                  (Confidence: 36.50%)
+   - hangouts                  (Confidence: 26.20%)
+   - gmail                     (Confidence: 9.48%)
+============================================================
+INPUT: <OOV> | maps | <OOV> | maps | <OOV> | maps | <OOV> | imo | <OOV> | <OOV> | gmail | <OOV> | maps | <OOV> | maps
+TRUE NEXT APP: clock
+PREDICTIONS:
+   - maps                      (Confidence: 40.14%)
+   - gmail                     (Confidence: 16.75%)
+   - instagram                 (Confidence: 9.19%)
+============================================================
+INPUT: facebook | <OOV> | <OOV> | maps | lucktastic | <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | lucktastic | lucktastic | <OOV>
+TRUE NEXT APP: reddit
+PREDICTIONS:
+   - lucktastic                (Confidence: 98.50%)
+   - maps                      (Confidence: 0.34%)
+   - messages                  (Confidence: 0.23%)
+============================================================
+INPUT: phone | hulu | messaging | phone | messaging | phone | messaging | phone | messaging | phone | messaging | phone | gmail | phone | hulu
+TRUE NEXT APP: messaging
+PREDICTIONS:
+   - phone                     (Confidence: 43.45%)
+   - metrozone                 (Confidence: 23.33%)
+   - hulu                      (Confidence: 9.70%)
+============================================================
+INPUT: google | <OOV> | google | <OOV> | google | <OOV> | google | telegram | gmail | telegram | gmail | telegram | gmail | <OOV> | <OOV>
+TRUE NEXT APP: settings
+PREDICTIONS:
+   - telegram                  (Confidence: 45.17%)
+   - gmail                     (Confidence: 19.30%)
+   - google                    (Confidence: 17.78%)
+============================================================
+INPUT: <OOV> | instagram | twitter | instagram | google | instagram | facebook | <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | instagram | <OOV> | instagram
+TRUE NEXT APP: gmail
+PREDICTIONS:
+   - google                    (Confidence: 56.18%)
+   - facebook                  (Confidence: 22.50%)
+   - twitter                   (Confidence: 4.00%)
+============================================================
+INPUT: <OOV> | gmail | <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | instagram | <OOV> | instagram | <OOV> | gmail | <OOV> | gmail | instagram
+TRUE NEXT APP: youtube
+PREDICTIONS:
+   - gmail                     (Confidence: 47.63%)
+   - facebook                  (Confidence: 29.16%)
+   - google                    (Confidence: 6.41%)
+============================================================
+INPUT: maps | messages | <OOV> | facebook | google | messages | messages | <OOV> | google | <OOV> | messages | calendar | <OOV> | <OOV> | contacts
+TRUE NEXT APP: google
+PREDICTIONS:
+   - messages                  (Confidence: 54.42%)
+   - facebook                  (Confidence: 11.14%)
+   - calendar                  (Confidence: 10.11%)
+============================================================
+INPUT: slidejoy | messages | slidejoy | slidejoy | messages | <OOV> | slidejoy | slidejoy | <OOV> | slidejoy | <OOV> | <OOV> | slidejoy | slidejoy | <OOV>
+TRUE NEXT APP: maps
+PREDICTIONS:
+   - slidejoy                  (Confidence: 68.70%)
+   - messages                  (Confidence: 8.64%)
+   - facebook                  (Confidence: 7.31%)
+============================================================
+INPUT: facebook | gmail | facebook | <OOV> | snapchat | twitter | <OOV> | messages | pinterest | facebook | <OOV> | <OOV> | facebook | <OOV> | facebook
+TRUE NEXT APP: snapchat
+PREDICTIONS:
+   - messages                  (Confidence: 23.28%)
+   - facebook                  (Confidence: 21.31%)
+   - gmail                     (Confidence: 14.40%)
+============================================================
+INPUT: telegram | <OOV> | telegram | <OOV> | telegram | <OOV> | telegram | instagram | telegram | facebook | google | facebook | instagram | telegram | <OOV>
+TRUE NEXT APP: twitter
+PREDICTIONS:
+   - telegram                  (Confidence: 70.15%)
+   - instagram                 (Confidence: 17.82%)
+   - google                    (Confidence: 4.94%)
+============================================================
+INPUT: facebook | <OOV> | facebook | <OOV> | facebook | <OOV> | facebook | <OOV> | facebook | <OOV> | facebook | <OOV> | facebook | <OOV> | facebook
+TRUE NEXT APP: instagram
+PREDICTIONS:
+   - google                    (Confidence: 27.40%)
+   - gmail                     (Confidence: 11.30%)
+   - surveycow                 (Confidence: 7.67%)
+============================================================
+INPUT: gmail | <OOV> | imo | <OOV> | twitter | <OOV> | twitter | <OOV> | twitter | <OOV> | twitter | <OOV> | <OOV> | twitter | <OOV>
+TRUE NEXT APP: telegram
+PREDICTIONS:
+   - twitter                   (Confidence: 58.21%)
+   - instagram                 (Confidence: 11.68%)
+   - google                    (Confidence: 7.08%)
+============================================================
+INPUT: <OOV> | google | <OOV> | google | <OOV> | google | <OOV> | google | <OOV> | google | <OOV> | google | facebook | <OOV> | google
+TRUE NEXT APP: messaging
+PREDICTIONS:
+   - google                    (Confidence: 64.10%)
+   - facebook                  (Confidence: 16.47%)
+   - youtube                   (Confidence: 3.70%)
+============================================================
+INPUT: <OOV> | calendar | telegram | calendar | messages | imo | telegram | messages | messages | messages | imo | messages | twitter | facebook | instagram
+TRUE NEXT APP: google
+PREDICTIONS:
+   - facebook                  (Confidence: 40.89%)
+   - twitter                   (Confidence: 26.15%)
+   - messages                  (Confidence: 11.68%)
+============================================================
+INPUT: camera | telegram | messages | telegram | instagram | telegram | instagram | telegram | instagram | telegram | facebook | telegram | facebook | telegram | facebook
+TRUE NEXT APP: messages
+PREDICTIONS:
+   - telegram                  (Confidence: 37.54%)
+   - google                    (Confidence: 13.41%)
+   - instagram                 (Confidence: 12.86%)
+============================================================
+INPUT: youtube | <OOV> | google | instagram | google | <OOV> | google | instagram | google | facebook | google | <OOV> | google | instagram | google
+TRUE NEXT APP: messages
+PREDICTIONS:
+   - google                    (Confidence: 60.69%)
+   - instagram                 (Confidence: 14.94%)
+   - facebook                  (Confidence: 6.89%)
+============================================================
+INPUT: slidejoy | slidejoy | <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | telegram | <OOV> | slidejoy | slidejoy | <OOV>
+TRUE NEXT APP: snapchat
+PREDICTIONS:
+   - slidejoy                  (Confidence: 84.70%)
+   - telegram                  (Confidence: 3.21%)
+   - maps                      (Confidence: 1.65%)
+============================================================
+INPUT: facebook | <OOV> | facebook | gmail | facebook | gmail | <OOV> | <OOV> | instagram | facebook | s’more | s’more | gmail | s’more | s’more
+TRUE NEXT APP: contacts
+PREDICTIONS:
+   - gmail                     (Confidence: 93.90%)
+   - facebook                  (Confidence: 1.93%)
+   - messages                  (Confidence: 1.73%)
+============================================================
+INPUT: snapchat | <OOV> | snapchat | <OOV> | telegram | <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | clock | calendar | settings
+TRUE NEXT APP: clock
+PREDICTIONS:
+   - calendar                  (Confidence: 20.53%)
+   - google                    (Confidence: 18.68%)
+   - telegram                  (Confidence: 15.34%)
+============================================================
+INPUT: <OOV> | gmail | <OOV> | gmail | <OOV> | gmail | <OOV> | gmail | <OOV> | gmail | <OOV> | <OOV> | <OOV> | <OOV> | <OOV>
+TRUE NEXT APP: reddit
+PREDICTIONS:
+   - gmail                     (Confidence: 39.67%)
+   - google                    (Confidence: 10.44%)
+   - facebook                  (Confidence: 10.38%)
+============================================================
+INPUT: twitter | maps | twitter | <OOV> | instagram | messages | phone | messages | <OOV> | messages | <OOV> | messages | <OOV> | instagram | maps
+TRUE NEXT APP: imo
+PREDICTIONS:
+   - instagram                 (Confidence: 26.60%)
+   - twitter                   (Confidence: 14.00%)
+   - messages                  (Confidence: 13.72%)
+============================================================
+INPUT: messages | <OOV> | messages | gmail | messages | gmail | messages | <OOV> | twitter | <OOV> | twitter | <OOV> | twitter | imo | <OOV>
+TRUE NEXT APP: google
+PREDICTIONS:
+   - twitter                   (Confidence: 30.28%)
+   - imo                       (Confidence: 27.97%)
+   - messages                  (Confidence: 16.45%)
+============================================================
+INPUT: facebook | facebook | <OOV> | facebook | facebook | camera | messages | <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | camera | <OOV> | <OOV>
+TRUE NEXT APP: calculator
+PREDICTIONS:
+   - camera                    (Confidence: 38.71%)
+   - facebook                  (Confidence: 19.96%)
+   - messages                  (Confidence: 11.47%)
+============================================================
+INPUT: contacts | telegram | contacts | contacts | contacts | telegram | contacts | telegram | contacts | telegram | contacts | contacts | telegram | contacts | telegram
+TRUE NEXT APP: maps
+PREDICTIONS:
+   - telegram                  (Confidence: 47.67%)
+   - contacts                  (Confidence: 37.40%)
+   - instagram                 (Confidence: 6.76%)
+============================================================
+INPUT: <OOV> | instagram | <OOV> | instagram | <OOV> | instagram | <OOV> | instagram | <OOV> | discord | <OOV> | discord | discord | <OOV> | discord
+TRUE NEXT APP: gmail
+PREDICTIONS:
+   - discord                   (Confidence: 34.32%)
+   - instagram                 (Confidence: 14.80%)
+   - facebook                  (Confidence: 11.54%)
+============================================================
+INPUT: facebook | facebook | <OOV> | facebook | <OOV> | facebook | <OOV> | facebook | <OOV> | facebook | <OOV> | facebook | <OOV> | facebook | <OOV>
+TRUE NEXT APP: snapchat
+PREDICTIONS:
+   - facebook                  (Confidence: 72.04%)
+   - google                    (Confidence: 6.58%)
+   - surveycow                 (Confidence: 3.83%)
+============================================================
+INPUT: messages | discord | messages | discord | messages | discord | messages | facebook | messages | messages | discord | gmail | messages | maps | contacts
+TRUE NEXT APP: discord
+PREDICTIONS:
+   - messages                  (Confidence: 27.04%)
+   - maps                      (Confidence: 17.15%)
+   - contacts                  (Confidence: 12.00%)
+============================================================
+INPUT: twitter | clock | calendar | instagram | <OOV> | twitter | <OOV> | google | twitter | facebook | twitter | calendar | maps | google | twitter
+TRUE NEXT APP: calendar
+PREDICTIONS:
+   - google                    (Confidence: 19.01%)
+   - twitter                   (Confidence: 16.10%)
+   - instagram                 (Confidence: 13.31%)
+============================================================
+INPUT: youtube | messaging | <OOV> | <OOV> | messaging | netflix | google | <OOV> | google | <OOV> | <OOV> | <OOV> | settings | <OOV> | settings
+TRUE NEXT APP: contacts
+PREDICTIONS:
+   - settings                  (Confidence: 29.06%)
+   - gmail                     (Confidence: 16.82%)
+   - google                    (Confidence: 10.65%)
+============================================================
+INPUT: instagram | <OOV> | maps | google | instagram | google | telegram | google | instagram | telegram | instagram | telegram | instagram | google | google
+TRUE NEXT APP: clock
+PREDICTIONS:
+   - google                    (Confidence: 51.90%)
+   - instagram                 (Confidence: 19.84%)
+   - telegram                  (Confidence: 10.49%)
+============================================================
+INPUT: twitter | <OOV> | twitter | youtube | twitter | youtube | twitter | youtube | twitter | youtube | twitter | youtube | twitter | contacts | contacts
+TRUE NEXT APP: s’more
+PREDICTIONS:
+   - contacts                  (Confidence: 39.66%)
+   - twitter                   (Confidence: 12.65%)
+   - messaging                 (Confidence: 7.85%)
+============================================================
+INPUT: <OOV> | camera | <OOV> | camera | <OOV> | camera | <OOV> | camera | <OOV> | camera | messaging | <OOV> | messaging | <OOV> | facebook
+TRUE NEXT APP: calculator
+PREDICTIONS:
+   - messaging                 (Confidence: 62.33%)
+   - aol                       (Confidence: 7.22%)
+   - camera                    (Confidence: 6.87%)
+============================================================
+INPUT: phone | messaging | maps | messaging | gmail | messaging | phone | messaging | phone | maps | phone | <OOV> | phone | <OOV> | phone
+TRUE NEXT APP: gmail
+PREDICTIONS:
+   - phone                     (Confidence: 24.86%)
+   - messaging                 (Confidence: 17.61%)
+   - contacts                  (Confidence: 16.46%)
+============================================================
+INPUT: <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | settings | <OOV>
+TRUE NEXT APP: discord
+PREDICTIONS:
+   - settings                  (Confidence: 46.43%)
+   - facebook                  (Confidence: 16.32%)
+   - google                    (Confidence: 9.74%)
+============================================================
+INPUT: telegram | <OOV> | telegram | <OOV> | google | maps | <OOV> | telegram | google | <OOV> | telegram | <OOV> | instagram | maps | telegram
+TRUE NEXT APP: twitter
+PREDICTIONS:
+   - telegram                  (Confidence: 27.55%)
+   - maps                      (Confidence: 22.95%)
+   - instagram                 (Confidence: 22.12%)
+============================================================
+INPUT: <OOV> | youtube | <OOV> | youtube | gmail | <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | <OOV>
+TRUE NEXT APP: maps
+PREDICTIONS:
+   - gmail                     (Confidence: 22.97%)
+   - facebook                  (Confidence: 13.85%)
+   - google                    (Confidence: 13.78%)
+============================================================
+INPUT: <OOV> | contacts | <OOV> | contacts | gmail | <OOV> | gmail | <OOV> | gmail | <OOV> | gmail | <OOV> | <OOV> | <OOV> | facebook
+TRUE NEXT APP: phone
+PREDICTIONS:
+   - facebook                  (Confidence: 37.15%)
+   - gmail                     (Confidence: 31.31%)
+   - google                    (Confidence: 5.62%)
+============================================================
+INPUT: google | <OOV> | google | <OOV> | calendar | <OOV> | calendar | <OOV> | <OOV> | <OOV> | google | <OOV> | google | <OOV> | google
+TRUE NEXT APP: phone
+PREDICTIONS:
+   - google                    (Confidence: 71.39%)
+   - facebook                  (Confidence: 4.84%)
+   - youtube                   (Confidence: 3.53%)
+============================================================
+INPUT: <OOV> | gmail | <OOV> | gmail | <OOV> | gmail | <OOV> | gmail | <OOV> | gmail | <OOV> | gmail | <OOV> | settings | gmail
+TRUE NEXT APP: messages
+PREDICTIONS:
+   - settings                  (Confidence: 27.83%)
+   - gmail                     (Confidence: 21.82%)
+   - google                    (Confidence: 10.28%)
+============================================================
+INPUT: calculator | telegram | contacts | telegram | messages | telegram | settings | telegram | telegram | instagram | telegram | messages | telegram | telegram | telegram
+TRUE NEXT APP: maps
+PREDICTIONS:
+   - telegram                  (Confidence: 51.78%)
+   - messages                  (Confidence: 13.93%)
+   - instagram                 (Confidence: 13.44%)
+============================================================
+INPUT: <OOV> | reddit | <OOV> | reddit | <OOV> | reddit | <OOV> | reddit | reddit | <OOV> | reddit | <OOV> | reddit | <OOV> | reddit
+TRUE NEXT APP: gmail
+PREDICTIONS:
+   - google                    (Confidence: 21.31%)
+   - facebook                  (Confidence: 16.37%)
+   - reddit                    (Confidence: 13.44%)
+============================================================
+INPUT: telegram | snapchat | telegram | snapchat | telegram | telegram | google | telegram | <OOV> | telegram | <OOV> | <OOV> | <OOV> | <OOV> | <OOV>
+TRUE NEXT APP: phone
+PREDICTIONS:
+   - telegram                  (Confidence: 59.27%)
+   - google                    (Confidence: 13.00%)
+   - instagram                 (Confidence: 9.23%)
+============================================================
+INPUT: <OOV> | <OOV> | contacts | twitter | twitter | youtube | twitter | <OOV> | <OOV> | <OOV> | <OOV> | google | <OOV> | <OOV> | <OOV>
+TRUE NEXT APP: gmail
+PREDICTIONS:
+   - twitter                   (Confidence: 39.46%)
+   - google                    (Confidence: 16.93%)
+   - youtube                   (Confidence: 8.76%)
+============================================================
+INPUT: <OOV> | <OOV> | google | facebook | google | facebook | google | facebook | <OOV> | reddit | facebook | reddit | facebook | reddit | facebook
+TRUE NEXT APP: camera
+PREDICTIONS:
+   - reddit                    (Confidence: 40.88%)
+   - facebook                  (Confidence: 28.27%)
+   - google                    (Confidence: 11.09%)
+============================================================
+INPUT: <OOV> | google | <OOV> | <OOV> | <OOV> | google | instagram | google | google | google | google | twitter | twitter | google | <OOV>
+TRUE NEXT APP: instagram
+PREDICTIONS:
+   - google                    (Confidence: 40.42%)
+   - twitter                   (Confidence: 19.61%)
+   - gmail                     (Confidence: 8.77%)
+============================================================
+INPUT: messages | <OOV> | messages | <OOV> | <OOV> | messages | <OOV> | messages | <OOV> | messages | facebook | messages | facebook | messages | messages
+TRUE NEXT APP: youtube
+PREDICTIONS:
+   - facebook                  (Confidence: 77.14%)
+   - google                    (Confidence: 4.87%)
+   - contacts                  (Confidence: 4.71%)
+============================================================
+INPUT: <OOV> | maps | <OOV> | maps | <OOV> | maps | <OOV> | maps | <OOV> | reddit | <OOV> | reddit | reddit | discord | calendar
+TRUE NEXT APP: youtube
+PREDICTIONS:
+   - gmail                     (Confidence: 15.66%)
+   - discord                   (Confidence: 10.97%)
+   - settings                  (Confidence: 10.00%)
+============================================================
+INPUT: twitter | youtube | s’more | s’more | youtube | s’more | youtube | s’more | s’more | youtube | s’more | youtube | <OOV> | youtube | facebook
+TRUE NEXT APP: instagram
+PREDICTIONS:
+   - youtube                   (Confidence: 49.48%)
+   - twitter                   (Confidence: 20.95%)
+   - s’more                    (Confidence: 16.10%)
+============================================================
+INPUT: <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | messages | <OOV> | messages | <OOV> | messages | <OOV> | messages | contacts | <OOV> | <OOV>
+TRUE NEXT APP: slidejoy
+PREDICTIONS:
+   - contacts                  (Confidence: 55.87%)
+   - messages                  (Confidence: 32.36%)
+   - facebook                  (Confidence: 3.67%)
+============================================================
+INPUT: facebook | calculator | hangouts | facebook | hangouts | facebook | hangouts | <OOV> | google | gmail | <OOV> | google | gmail | <OOV> | <OOV>
+TRUE NEXT APP: instagram
+PREDICTIONS:
+   - gmail                     (Confidence: 44.68%)
+   - google                    (Confidence: 44.05%)
+   - facebook                  (Confidence: 3.79%)
+============================================================
+INPUT: facebook | instagram | facebook | instagram | clock | twitter | clock | twitter | clock | twitter | clock | twitter | clock | clock | google
+TRUE NEXT APP: telegram
+PREDICTIONS:
+   - clock                     (Confidence: 73.62%)
+   - twitter                   (Confidence: 9.18%)
+   - instagram                 (Confidence: 6.94%)
+============================================================
+INPUT: <OOV> | <OOV> | google | gmail | <OOV> | gmail | <OOV> | <OOV> | <OOV> | <OOV> | gmail | gmail | gmail | instagram | facebook
+TRUE NEXT APP: maps
+PREDICTIONS:
+   - gmail                     (Confidence: 33.06%)
+   - facebook                  (Confidence: 21.31%)
+   - instagram                 (Confidence: 20.99%)
+============================================================
+INPUT: <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | <OOV> | telegram
+TRUE NEXT APP: contacts
+PREDICTIONS:
+   - google                    (Confidence: 20.70%)
+   - gmail                     (Confidence: 13.55%)
+   - facebook                  (Confidence: 12.60%)
+============================================================
+INPUT: youtube | <OOV> | youtube | <OOV> | youtube | <OOV> | gmail | <OOV> | gmail | <OOV> | gmail | <OOV> | youtube | <OOV> | youtube
+TRUE NEXT APP: contacts
+PREDICTIONS:
+   - youtube                   (Confidence: 33.64%)
+   - gmail                     (Confidence: 25.39%)
+   - google                    (Confidence: 9.32%)
+============================================================
+INPUT: youtube | <OOV> | google | <OOV> | google | youtube | telegram | youtube | telegram | twitter | youtube | telegram | youtube | telegram | youtube
+TRUE NEXT APP: messaging
+PREDICTIONS:
+   - telegram                  (Confidence: 98.57%)
+   - google                    (Confidence: 1.18%)
+   - twitter                   (Confidence: 0.09%)
+============================================================
+INPUT: gmail | snapchat | reddit | youtube | reddit | youtube | <OOV> | reddit | <OOV> | reddit | reddit | <OOV> | reddit | <OOV> | reddit
+TRUE NEXT APP: settings
+PREDICTIONS:
+   - reddit                    (Confidence: 38.41%)
+   - snapchat                  (Confidence: 22.61%)
+   - gmail                     (Confidence: 10.75%)
+============================================================
+INPUT: hangouts | google | facebook | google | facebook | calendar | gmail | hangouts | telegram | <OOV> | google | <OOV> | google | <OOV> | telegram
+TRUE NEXT APP: youtube
+PREDICTIONS:
+   - google                    (Confidence: 55.44%)
+   - hangouts                  (Confidence: 15.41%)
+   - gmail                     (Confidence: 11.97%)
+============================================================
+INPUT: <OOV> | telegram | telegram | <OOV> | maps | telegram | instagram | telegram | instagram | telegram | camera | instagram | telegram | instagram | telegram
+TRUE NEXT APP: maps
+PREDICTIONS:
+   - instagram                 (Confidence: 73.69%)
+   - telegram                  (Confidence: 8.64%)
+   - contacts                  (Confidence: 4.24%)
+============================================================
